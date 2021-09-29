@@ -7,7 +7,7 @@ const rl = readline.createInterface (process.stdin, process.stdout);
 
 
 //introducing our calculator
-console.log('Welcome to Running-Calc.js');
+console.log('Welcome to calc.js, a simple calculator.');
 
 //this will hold the current result so we will start it off at 0
 let total = 0;
